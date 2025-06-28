@@ -1,1 +1,1 @@
-# Algorithmic-Trading-
+# Algorithmic-Trading-Strategy-Development
